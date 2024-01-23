@@ -1,0 +1,11 @@
+Model Information:
+* title:	My neighbor Totoro - となりのトトロ
+* source:	https://sketchfab.com/3d-models/my-neighbor-totoro-30680a1c670b43d39300a1938c1fc295
+* author:	Gabriele_Zero3DArt (https://sketchfab.com/zero3dart)
+
+Model License:
+* license type:	CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
+* requirements:	Author must be credited. Commercial use is allowed.
+
+If you use this 3D model in your project be sure to copy paste this credit wherever you share it:
+This work is based on "My neighbor Totoro - となりのトトロ" (https://sketchfab.com/3d-models/my-neighbor-totoro-30680a1c670b43d39300a1938c1fc295) by Gabriele_Zero3DArt (https://sketchfab.com/zero3dart) licensed under CC-BY-4.0 (http://creativecommons.org/licenses/by/4.0/)
