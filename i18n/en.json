@@ -1,5 +1,8 @@
 {
   "about": "About",
   "projects": "Projects",
-  "contacts": "Contacts"
+  "contacts": "Contacts",
+  "about-text": "Hi! My name is Kostya, and I am a frontend developer with experience in creating websites. I am 19 years old, and currently, I am studying Computer Engineering at the university. My skills include proficiency in HTML, CSS, JavaScript, as well as experience working with various frameworks such as React or Vue. I am passionate about creating user-friendly and creative user interfaces and constantly strive to improve my skills. Additionally, I have experience working on various commercial and non-commercial projects. I am looking forward to meeting new people and collaborating!",
+  "about-intro": "Hi! My name is Kostya, I'm frontend developer."
 }
+

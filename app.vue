@@ -11,7 +11,7 @@
 
 
 <template>
-  <div :class="{'dark-theme': themeStore.value == 'dark', 'full': true}">
+  <div :class="{'dark-theme': themeStore.value == 'dark', 'full-page': true}">
     <NuxtLayout>
       <NuxtPage />
     </NuxtLayout>
@@ -19,12 +19,11 @@
 </template>
 
 <style scoped>
-  .full{
+  .full-page{
     min-height: 100vh;
     display: flex;
     flex-direction: column;
     background: hsl(var(--background));
     color: hsl(var(--foreground));
-    @apply h-screen;
   }
 </style>

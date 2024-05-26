@@ -7,5 +7,5 @@ export const languages = {
   ru
 }
 
-const storageLang = JSON.parse(localStorage.getItem('language')).value 
+const storageLang = JSON.parse(localStorage.getItem('language'))?.value | 'en'
 export const defaultLocale = storageLang || initNavigatorLanguage(Object.keys(languages))
